@@ -1,6 +1,6 @@
 # Flowchart
 
-1. Find out whether a number is odd or even
+1. Find out whether a number is odd or even.
 
 ![1](https://github.com/lifeparticle/Flowchart/assets/1612112/5ee25d53-89e0-4f65-a3da-fb3e86b70c7e)
 
