@@ -1,3 +1,5 @@
+[How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672)
+
 + [1. Find out whether a number is odd or even.](#1-find-out-whether-a-number-is-odd-or-even)
 + [2. Read two numbers, then determine and display the larger number.](#2-read-two-numbers-then-determine-and-display-the-larger-number)
 + [3. Display the following sequence: -10, -5, 0, 5, 10.](#3-display-the-following-sequence--10--5-0-5-10)
